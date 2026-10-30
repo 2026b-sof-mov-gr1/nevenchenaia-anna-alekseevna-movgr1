@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359721271973",
+    "project_id": "aan2026bmovgr1",
+    "storage_bucket": "aan2026bmovgr1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359721271973:android:7abea885a7373d9a3e434c",
+        "android_client_info": {
+          "package_name": "com.example.ann2026bmovgr1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADq-dMAZeA8S_59TPGKmMJFeRBHXfyzKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ann2026bmovgr1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Forzar que el fondo por defecto no sea blanco/negro rígido del sistema -->
+        <item name="android:windowBackground">@color/mi_color_fondo</item>
+    </style>
+
+    <style name="Theme.Ann2026bmovgr1" parent="Base.Theme.Ann2026bmovgr1" />
+</resources>
