@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">HolaMundoKMP</string>
+    <string name="app_text">¡Hola desde Vertical (Español)!</string>
+    <color name="fondo_color">#FFFFFFFF</color>
+    <color name="texto_color">#FF000000</color>
 </resources>

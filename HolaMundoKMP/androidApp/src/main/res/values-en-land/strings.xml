@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_text">Hello from Landscape (English)!</string>
+    <color name="fondo_color">#FF7C7C</color>
+    <color name="texto_color">#4ABBE6</color>
+</resources>

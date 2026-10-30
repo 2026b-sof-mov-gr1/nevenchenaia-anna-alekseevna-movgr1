@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_text">¡Hola desde Horizontal (Español)!</string>
+    <color name="fondo_color">#490575</color>
+    <color name="texto_color">#FF7322</color>
+</resources>

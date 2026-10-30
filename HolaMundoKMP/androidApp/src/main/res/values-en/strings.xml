@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_text">¡Hello from Portrait (English)!</string>
+    <color name="fondo_color">#000000</color>
+    <color name="texto_color">#FA6D6D</color>
+</resources>
